@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b9ee4f70.chunk.js",
+    "main.js.map": "/static/js/main.b9ee4f70.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a28230b2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a28230b2.js.map",
+    "static/css/2.c268c7e3.chunk.css": "/static/css/2.c268c7e3.chunk.css",
+    "static/js/2.b010a1e3.chunk.js": "/static/js/2.b010a1e3.chunk.js",
+    "static/js/2.b010a1e3.chunk.js.map": "/static/js/2.b010a1e3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c268c7e3.chunk.css.map": "/static/css/2.c268c7e3.chunk.css.map",
+    "static/js/2.b010a1e3.chunk.js.LICENSE.txt": "/static/js/2.b010a1e3.chunk.js.LICENSE.txt",
+    "static/media/AboutPage-img.5ba35abc.jpg": "/static/media/AboutPage-img.5ba35abc.jpg",
+    "static/media/ERS.d8fde0ff.png": "/static/media/ERS.d8fde0ff.png",
+    "static/media/HMSL.843cbbd0.png": "/static/media/HMSL.843cbbd0.png",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/Ocean-WebSite.a504698c.png": "/static/media/Ocean-WebSite.a504698c.png",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/TravelApp.6609f577.jpg": "/static/media/TravelApp.6609f577.jpg",
+    "static/media/about-sec-img.856333c9.png": "/static/media/about-sec-img.856333c9.png",
+    "static/media/contact_img.87202544.jpg": "/static/media/contact_img.87202544.jpg",
+    "static/media/heroSection-img.0eae9030.jpg": "/static/media/heroSection-img.0eae9030.jpg",
+    "static/media/map.7d98ba39.png": "/static/media/map.7d98ba39.png",
+    "static/media/projectImg.771236e1.png": "/static/media/projectImg.771236e1.png",
+    "static/media/scroll-down-arrow.b013ca45.svg": "/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/social-media-arrow.f5e093ce.svg": "/static/media/social-media-arrow.f5e093ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a28230b2.js",
+    "static/css/2.c268c7e3.chunk.css",
+    "static/js/2.b010a1e3.chunk.js",
+    "static/js/main.b9ee4f70.chunk.js"
+  ]
+}
